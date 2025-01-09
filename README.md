@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rmwangi28
+- 👋 Hi, I’m Rachel aka Rae
 - 👀 I’m interested in game development, javascript, and tailwind css
 - 🌱 I’m currently learning html, css, and javascript
 - 💞️ I’m looking to collaborate on game development projects
